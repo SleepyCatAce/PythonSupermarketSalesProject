@@ -10,3 +10,5 @@ This project had to follow a couple of principles. There were
 This was done in Python in Jupyter Notebook using multiple libaries, including numpy, pandas, matplotlib.pyplot, seaborn, datetime and scipy.stats
 
 The dataset used can be found here: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+
+Both the Jupyter Notebook file and the html file can be found here
