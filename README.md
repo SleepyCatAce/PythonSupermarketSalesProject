@@ -1,7 +1,7 @@
 # PythonSupermarketSalesProject
 The Final Project for my Data Handling and Visualisation Subject
 
-This project had to follow a couple of principles. There were
+This project had to follow a couple of principles. They were
 - Finding and reading a dataset with at least 100 rows
 - Showing the first 5 lines of the dataset
 - Displaying 5 different types of graphs
